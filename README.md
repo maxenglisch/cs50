@@ -1,5 +1,5 @@
 # Machine Learning on CT-Scans of Breast Cancer
-#### Video Demo: https://youtu.be/JZmn-XQ8pNo
+
 #### Description:
 ### Introduction
 This Project is about a small Machine Learning (ML) model that uses a dataset from Pythons sklearn library to predict wether a given sample of features of a CT-Scan of Breast Cancer is classified as beningn or malignant. \
